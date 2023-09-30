@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  background-image: url('porshe.jpg');
+}
+
+a:hover {
+  color: blue; /* or any other color of your choice */
+}
+
+.red-bold {
+  color: red;
+  font-weight: bold;
+}
+
+span.red-bold {
+  color: red;
+  font-weight: bold;
+  
